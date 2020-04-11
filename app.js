@@ -37,7 +37,7 @@ for (let bot of Object.values(bots)) {
     botCount ++;
 
     if (botCount === botGoal) {
-      console.log(`*** All ${botGoal} bots connected to the following channels: ${channels}! ***`);
+      console.log(`*** All ${botGoal} bots connected to the following channels: ${defaultOptions.channels}! ***`);
     }
   });
 }
