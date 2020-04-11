@@ -1,0 +1,11 @@
+{
+  "bots": [
+    {
+      "username": "username",
+      "password": "oauthcode"
+    }
+  ],
+  "channels": [
+    "summit1g"
+  ]
+}

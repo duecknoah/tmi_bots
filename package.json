@@ -1,0 +1,15 @@
+{
+  "name": "twitch_bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "data-store": "^4.0.3",
+    "tmi.js": "^1.5.0"
+  }
+}
